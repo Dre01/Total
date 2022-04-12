@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Total/static/css/main.1b50ecc1.chunk.css",
+    "main.js": "/Total/static/js/main.099de9d0.chunk.js",
+    "main.js.map": "/Total/static/js/main.099de9d0.chunk.js.map",
+    "runtime-main.js": "/Total/static/js/runtime-main.90021c78.js",
+    "runtime-main.js.map": "/Total/static/js/runtime-main.90021c78.js.map",
+    "static/js/2.84b7eeed.chunk.js": "/Total/static/js/2.84b7eeed.chunk.js",
+    "static/js/2.84b7eeed.chunk.js.map": "/Total/static/js/2.84b7eeed.chunk.js.map",
+    "static/js/3.507a5f9f.chunk.js": "/Total/static/js/3.507a5f9f.chunk.js",
+    "static/js/3.507a5f9f.chunk.js.map": "/Total/static/js/3.507a5f9f.chunk.js.map",
+    "index.html": "/Total/index.html",
+    "static/css/main.1b50ecc1.chunk.css.map": "/Total/static/css/main.1b50ecc1.chunk.css.map",
+    "static/js/2.84b7eeed.chunk.js.LICENSE.txt": "/Total/static/js/2.84b7eeed.chunk.js.LICENSE.txt",
+    "static/media/HomepageBanner.503630aa.jpg": "/Total/static/media/HomepageBanner.503630aa.jpg",
+    "static/media/Logos.4edf56f6.png": "/Total/static/media/Logos.4edf56f6.png",
+    "static/media/MoogDFAM.a267cd4c.jpg": "/Total/static/media/MoogDFAM.a267cd4c.jpg",
+    "static/media/MoogGrandmother.e37db980.jpg": "/Total/static/media/MoogGrandmother.e37db980.jpg",
+    "static/media/MoogMatriarch.2cfe0995.jpg": "/Total/static/media/MoogMatriarch.2cfe0995.jpg",
+    "static/media/MoogOne.98b4c7d5.jpg": "/Total/static/media/MoogOne.98b4c7d5.jpg",
+    "static/media/MoogSub.6a37ed48.jpg": "/Total/static/media/MoogSub.6a37ed48.jpg",
+    "static/media/MoogWAH.74ac046b.jpg": "/Total/static/media/MoogWAH.74ac046b.jpg",
+    "static/media/h.28d3dfba.jpg": "/Total/static/media/h.28d3dfba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90021c78.js",
+    "static/js/2.84b7eeed.chunk.js",
+    "static/css/main.1b50ecc1.chunk.css",
+    "static/js/main.099de9d0.chunk.js"
+  ]
+}
